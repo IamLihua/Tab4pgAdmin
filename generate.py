@@ -31,4 +31,5 @@ def main(s:str):
     Gener=generater_simple
     print(Gener(low_str)+Gener(up_str))
 
+# 示例:生成between补全ahk代码
 main("between")
